@@ -11,6 +11,7 @@ To help rescue crews and retrieve the lost passengers, you are challenged to pre
 Kaggle Dataset Link - https://www.kaggle.com/competitions/spaceship-titanic/data
 
 Algorithm Used - Random Forest Classifier
+
 The ipynb file contains the code for EDA along with the Random Forest Classifier
 
 Source - https://www.kaggle.com/competitions/spaceship-titanic/overview
